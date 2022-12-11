@@ -2791,8 +2791,8 @@ Homebrew安装了TA-Lib
 Average Return (Daily) : 0.0110852%
 Volatility (Daily) : 0.318148%
 Volatility Downside (Daily) : 0.336702%
-Sharpe Ratio (Annually): 0.665671
-Sortino Ratio (Annually): 0.62899
+Sharpe Ratio (Annually) : 0.665671
+Sortino Ratio (Annually) : 0.62899
 Compound Annual Growth Rate : 3.93235%
 Total Return : 14.2296%
 
@@ -2800,8 +2800,8 @@ Total Return : 14.2296%
 Average Return (Daily) : 0.0205001%
 Volatility (Daily) : 1.11802%
 Volatility Downside (Daily) : 0.939042%
-Sharpe Ratio (Annually): 0.350309
-Sortino Ratio (Annually): 0.417078
+Sharpe Ratio (Annually) : 0.350309
+Sortino Ratio (Annually) : 0.417078
 Compound Annual Growth Rate : 20.4036%
 Total Return : 89.7366%
 
