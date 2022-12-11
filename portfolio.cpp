@@ -119,11 +119,11 @@ void BasePortfolio::calculateMetrics() {
 
 
     double annualSharpeRatio = sqrt(period) * avgReturn / volatility;
-    performanceMetrics.emplace_back("Sharpe Ratio (Annually)", annualSharpeRatio);
+    performanceMetrics.emplace_back("Sharpe Ratio (Annually) ", annualSharpeRatio);
 
 
     double annualSortinoRatio = sqrt(period) * avgReturn / volatilityDownside;
-    performanceMetrics.emplace_back("Sortino Ratio (Annually)", annualSortinoRatio);
+    performanceMetrics.emplace_back("Sortino Ratio (Annually) ", annualSortinoRatio);
 
 
     double finalCapital = allHoldings.rbegin()->second["total"];
